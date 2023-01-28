@@ -12,7 +12,7 @@ from xaviroca_schema.grupos g
 	left join xaviroca_schema.colores c on c.idColor = v.color 
 	left join xaviroca_schema.aseguradoras a on a.idAseguradora = v.aseguradora
 where v.fecha_baja is null 		-- para que sólo salgan los activos
-order by 1,2,3
+order by 1,2,3;
 
 
 
