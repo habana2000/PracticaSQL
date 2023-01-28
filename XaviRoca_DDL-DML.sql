@@ -153,29 +153,29 @@ insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseg
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (5,4,1,'4567 MCB',75456,1,'89898-534','2013/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (6,4,2,'5678 DFF',475556,1,'9879-534','2005/11/20',null);
+	values (6,4,2,'5678 DFF',475556,2,'9879-534','2005/11/20',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (7,5,3,'6789 GBB',457776,1,'4354539098','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (8,6,4,'2323 HTP',756756,1,'43545HJG','2005/11/06',null);
+	values (8,6,4,'2323 HTP',756756,2,'43545HJG','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (9,7,1,'1111 GTT',176754,1,'HJGHJ-534','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (10,9,2,'2222 DDD',17656,1,'435JGHJG4533-534','2005/11/06','2022-12-31');
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (11,9,3,'3434 FFF',76156,1,'HJJHJ-534','2005/11/06',null);
+	values (11,9,3,'3434 FFF',76156,3,'HJJHJ-534','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (12,9,4,'0000 GGG',167656,1,'4354533-KHJK','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (13,9,1,'9090 LLL',15456,1,'43KJHKH34','2015/11/06',null);
+	values (13,9,1,'9090 LLL',15456,3,'43KJHKH34','2015/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (14,6,2,'5657 KKK',43256,1,'43545KJKJH4','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (15,3,2,'3456 DGL',432256,1,'435455645','2010/11/06',null);
+	values (15,3,2,'3456 DGL',432256,3,'435455645','2010/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (16,4,2,'9478 DSS',43256,1,'TERTERT','2005/11/06',null);
+	values (16,4,2,'9478 DSS',43256,3,'TERTERT','2005/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
-	values (17,3,3,'4524 FTM',53216,1,'2132324','2007/11/06',null);
+	values (17,3,3,'4524 FTM',53216,3,'2132324','2007/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
 	values (18,4,3,'0956 LKM',51236,1,'4354533-534','2018/11/06',null);
 insert into xaviroca_schema.vehiculos (idvehiculo,modelo,color,matricula,km,aseguradora,poliza,fecha_compra,fecha_baja)
